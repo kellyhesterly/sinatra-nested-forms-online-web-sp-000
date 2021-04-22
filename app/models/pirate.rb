@@ -3,6 +3,9 @@ class Pirate
 
   @@all = []
 
+  def initialize(params)
+  end
+
   def self.all
     @@all
   end
